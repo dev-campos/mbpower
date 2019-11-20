@@ -1,0 +1,19 @@
+.Contact {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: auto;
+  margin-top: 80px;
+  justify-content: center;
+}
+
+@media (min-width: 1300px) {
+  .Contact {
+    width: 60vw
+  }
+}
+
+@media (min-height: 400px) {
+  .Contact {
+    margin-top: 20vh;
+  }
+}

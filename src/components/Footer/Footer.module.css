@@ -1,7 +1,7 @@
 .Footer{
   height: 56px;
   width: 100%;
-  position : absolute;
+  position : fixed;
   bottom : 0;
   background-color: #555;
   color: #ddd;

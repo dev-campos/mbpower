@@ -1,0 +1,22 @@
+.Content p{
+  max-width: 60vw;
+  margin: 20px auto;
+}
+
+.Carousel {
+  display: none;
+}
+
+.Eq {
+  margin: auto;
+  margin-bottom: 41px;
+}
+
+@media (min-width: 1200px) {
+  .Carousel {
+    display: block;
+  }
+  .Logo {
+    display: none;
+  }
+}

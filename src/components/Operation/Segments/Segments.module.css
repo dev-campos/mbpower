@@ -1,0 +1,33 @@
+.Segments {
+  display: grid;
+  padding: 0;
+  grid-template-columns: 1fr;
+  list-style-type: none;
+  margin: auto;
+}
+
+.Segments li {
+  margin: 10px;
+}
+
+.Segments p {
+  margin: auto;
+}
+
+@media (min-width: 730px) {
+  .Segments {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 1100px) {
+  .Segments {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media (min-width: 1300px) {
+  .Segments {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
