@@ -1,7 +1,12 @@
-.Form {  
+.Form {
   display: flex;
   margin-top: 10px;
   margin: auto;
+}
+
+.Success {
+  margin: auto;
+  margin-bottom: 10px;
 }
 
 .Input {
