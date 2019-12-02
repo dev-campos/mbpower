@@ -12,9 +12,9 @@ const Information = (props) => (
     </div>
     <div>
       <h2>TELEFONE</h2>
-      <p>(21)3629-0046</p>
-      <p>(21) 97130-5611 (Vivo)</p>
-      <p>(21) 99248-3529 (Claro Fixo)</p>
+      <p>(21)  3629-0046 (Fixo)</p>
+      <p>(21) 99248-3529 (Fixo)</p>
+      <p>(21) 97130-5611 (Vivo)</p>      
     </div>
     <div>
       <h2>E-MAIL</h2>
