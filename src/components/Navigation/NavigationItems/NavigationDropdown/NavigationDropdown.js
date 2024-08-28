@@ -4,8 +4,7 @@ import { NavLink } from "react-router-dom"
 
 const NavigationDropdown = (props) => {
   const suppliers = [
-    { name: "Torqlite", link: "torqlite" },
-    { name: "Equalizer", link: "equalizer" }
+    { name: "Torqlite", link: "torqlite" }
   ];
 
   const supplierList = suppliers.map((supplier, index) => {

@@ -4,7 +4,6 @@ import { Link } from "react-router-dom"
 
 import logo from "../../assets/Favi.ico"
 import torq from "../../assets/torq.jpg"
-import eq from "../../assets/equalizer.jpg"
 import Carousel from "../Carousel/Carousel"
 
 const Company = (props) => (
@@ -16,8 +15,8 @@ const Company = (props) => (
       <Carousel />
     </div>
     <p>
-      A MB Power surgiu com a finalidade de expandir no Brasil as marcas
-      Torqlite e Equalizer, lideres em seus segmentos.
+      A MB Power surgiu com a finalidade de expandir no Brasil a marca
+      Torqlite, lider em seu segmento.
     </p>
     <p>
       Buscando atender a exigente demanda do mercado, fornecemos soluções para
@@ -31,7 +30,6 @@ const Company = (props) => (
 
     <div>
       <Link to="/produtos/torqlite"><img src={torq} alt="Torqlite Logo"/></Link>
-      <Link to="/produtos/equalizer"><img  className={style.Eq} src={eq} alt="Equalizer Logo"/></Link>
     </div>
   </div>
 );

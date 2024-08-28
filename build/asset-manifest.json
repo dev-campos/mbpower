@@ -1,34 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.63315235.chunk.css",
-    "main.js": "/static/js/main.d6b34621.chunk.js",
-    "main.js.map": "/static/js/main.d6b34621.chunk.js.map",
+    "main.css": "/static/css/main.97fc7319.chunk.css",
+    "main.js": "/static/js/main.f34f24dc.chunk.js",
+    "main.js.map": "/static/js/main.f34f24dc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.85071761.js",
     "runtime-main.js.map": "/static/js/runtime-main.85071761.js.map",
-    "static/js/2.0972bb07.chunk.js": "/static/js/2.0972bb07.chunk.js",
-    "static/js/2.0972bb07.chunk.js.map": "/static/js/2.0972bb07.chunk.js.map",
+    "static/js/2.b255264a.chunk.js": "/static/js/2.b255264a.chunk.js",
+    "static/js/2.b255264a.chunk.js.map": "/static/js/2.b255264a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9fcfa50dd4a9f6e992b5d13e1ae5cdb3.js": "/precache-manifest.9fcfa50dd4a9f6e992b5d13e1ae5cdb3.js",
+    "precache-manifest.41e89c46c98506760a2bb9d2bdb92289.js": "/precache-manifest.41e89c46c98506760a2bb9d2bdb92289.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.63315235.chunk.css.map": "/static/css/main.63315235.chunk.css.map",
-    "static/media/01.jpg": "/static/media/01.c04cd28e.jpg",
-    "static/media/02.jpg": "/static/media/02.78045524.jpg",
+    "static/css/main.97fc7319.chunk.css.map": "/static/css/main.97fc7319.chunk.css.map",
+    "static/media/02.jpg": "/static/media/02.3df22ce4.jpg",
     "static/media/Favi.ico": "/static/media/Favi.cc9f77d5.ico",
     "static/media/Icon.png": "/static/media/Icon.824d806a.png",
     "static/media/auto.jpg": "/static/media/auto.734d8a14.jpg",
-    "static/media/certf.jpg": "/static/media/certf.6b90b50e.jpg",
-    "static/media/equalizer.jpg": "/static/media/equalizer.1addd547.jpg",
+    "static/media/certf.jpg": "/static/media/certf.fc77187f.jpg",
     "static/media/mineracao.jpg": "/static/media/mineracao.8dec4603.jpg",
     "static/media/naval.jpg": "/static/media/naval.952c2d0d.jpg",
     "static/media/plat.jpg": "/static/media/plat.f5031878.jpg",
     "static/media/refinaria.jpg": "/static/media/refinaria.ffde7124.jpg",
-    "static/media/torq.jpg": "/static/media/torq.868e23a0.jpg",
     "static/media/usina.jpg": "/static/media/usina.acf9149e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.85071761.js",
-    "static/js/2.0972bb07.chunk.js",
-    "static/css/main.63315235.chunk.css",
-    "static/js/main.d6b34621.chunk.js"
+    "static/js/2.b255264a.chunk.js",
+    "static/css/main.97fc7319.chunk.css",
+    "static/js/main.f34f24dc.chunk.js"
   ]
 }

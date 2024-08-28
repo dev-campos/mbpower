@@ -6,6 +6,10 @@
   justify-content: center;
 }
 
+.Terms {
+  margin-top: 20px;
+}
+
 @media (min-width: 1300px) {
   .Contact {
     width: 60vw

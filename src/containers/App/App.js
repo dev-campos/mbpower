@@ -7,7 +7,6 @@ import Footer from "../../components/Footer/Footer"
 import Company from "../../components/Company/Company"
 import Operation from "../../components/Operation/Operation"
 import Torqlite from "../../components/Products/Torqlite/Torqlite"
-import Equalizer from "../../components/Products/Equalizer/Equalizer"
 import Contact from "../../components/Contact/Contact"
 
 function App() {
@@ -18,7 +17,6 @@ function App() {
         <Route exact path="/"><Company/></Route>
         <Route path="/atuacao"><Operation/></Route>
         <Route path="/produtos/torqlite"><Torqlite/></Route>
-        <Route path="/produtos/equalizer"><Equalizer/></Route>
         <Route path="/contato"><Contact/></Route>
       </div>
       <Footer/>

@@ -38,7 +38,7 @@ const Torqlite = (props) => {
         Hidráulicas de Torque.
       </p>
       <p>
-        Há mais de 30 anos no mercado e com diversas patentes premiadas,
+        Há mais de 40 anos no mercado e com diversas patentes premiadas,
         é também a maior empresa Prestadora de Serviços de Torque nos EUA.
       </p>
       <p>
@@ -46,7 +46,7 @@ const Torqlite = (props) => {
         solucionar os diversos problemas de torqueamento no mercado industrial.
       </p>
       <ProductList products={products}/>
-      <h4>Todas as nossas ferramentas possuem certificado de calibração</h4>
+      <h4>Nossos Certificados</h4>
       <div className={style.cert}><img src={certf} alt="certificado"/></div>
     </div>
   )

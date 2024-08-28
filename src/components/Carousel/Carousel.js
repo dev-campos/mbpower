@@ -1,8 +1,6 @@
 import React from 'react';
 import Slider from "react-slick";
 import style from "./Carousel.module.css"
-
-import img1 from "../../assets/01.jpg"
 import img2 from "../../assets/02.jpg"
 
 const Carousel = (props) => {
@@ -15,9 +13,6 @@ const Carousel = (props) => {
   };
   return (
     <Slider className={style.Carousel} {...settings}>
-      <div>
-        <img src={img1} alt=""/>
-      </div>
       <div>
         <img src={img2} alt=""/>
       </div>

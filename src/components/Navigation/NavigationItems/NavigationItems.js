@@ -12,7 +12,7 @@ const NavigationItems = (props) => (
     <NavigationItem exact link="/">Empresa</NavigationItem>
     <NavigationItem link="/atuacao">Atuação</NavigationItem>
     <NavigationDropdown link="/produtos">Produtos</NavigationDropdown>
-    <NavigationItem link="/contato">Contato</NavigationItem>
+    <NavigationItem link="/contato">Contato e Termos</NavigationItem>
   </ul>
 );
 
